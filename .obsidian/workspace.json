@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Archive.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References.md",
+                "file": "Archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References.md",
+                "file": "Archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "References.md"
+                "file": "Archive.md"
               }
             }
           }
@@ -147,50 +147,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "149070ea733a9cb6",
-    "type": "floating",
-    "children": [
-      {
-        "id": "58b6059044b93020",
-        "type": "window",
-        "children": [
-          {
-            "id": "a0105fdaa97a83ae",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "09323a0d68f9cf04",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "References.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 390,
-        "y": 525,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "09323a0d68f9cf04",
+  "active": "302d953783725bbd",
   "lastOpenFiles": [
+    "To go or not to go; that is the question.md",
+    "untitled folder_portrait.md",
+    "We are linked.md",
+    "References.md",
+    "index.md",
     "README.md",
     "Archive.md",
-    "index.md",
     "docs",
-    "untitled folder",
-    "References.md"
+    "untitled folder"
   ]
 }
