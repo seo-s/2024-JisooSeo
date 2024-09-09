@@ -1,0 +1,1 @@
+let graphData={graphOptions:{attractionForce:1,linkLength:10,repulsionForce:150,centralForce:3,edgePruning:100,minNodeRadius:3,maxNodeRadius:7},isInitialized:!0,paths:["archive.html","index.html","readme.html","references.html"],nodeCount:4,linkSources:[1,1,2,2],linkTargets:[0,3,0,3],labels:["Archive","index","README","References"],radii:[7,7,7,7],linkCount:4}
