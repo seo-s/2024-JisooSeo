@@ -1,0 +1,7 @@
+Single-channel video, 4D, color, sound, 13’30’’, 2024
+
+Jisoo Seo delves into the questions found between reality and virtuality, intertwining them with narratives of death, apocalypse, and conflicts of identity. untitled folder_portrait (2024) begins by granting self-awareness to a digital image '[[cursor]]' and entrusting it with the narrative of an individual based on specific experiences, revealing traces of photo data on the digital screen. However, the specific individuals focused on by the speaker are obscured in the photo data by unidentifiable blurring, relying only on a few guiding pieces of data information and narrative stories to draw a nonlinear narrative. The audience, digging through memories and data archives, seeks private interaction, empathy, and understanding of others, placing them within their own continuity and identity, but the cursor's dry movements instead enhance the sense of an abyssal distance from others. The artwork moves beyond the truths, realities, and fictions of personal history to focus solely on the cursor's movements, arrangement order, and given information, providing and simultaneously denying the possibility of a proxy or other being fully existent. The cursor raises questions about its role as an active agent, and the final scene revealing the cursor's portrait challenges the potential for restoring [[data sovereignty]].
+
+**References** 
+Untitled(Portrait) series, Felix Gonzalez-Torres
+The Mocking of Christ, Fra Angelico

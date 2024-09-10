@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To go or not to go; that is the question.md",
+                "file": "Next.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 269.5
   },
   "right": {
     "id": "3845ba3616f6bb54",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To go or not to go; that is the question.md",
+                "file": "We are linked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To go or not to go; that is the question.md",
+                "file": "We are linked.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To go or not to go; that is the question.md"
+                "file": "We are linked.md"
               }
             }
           }
@@ -160,30 +160,74 @@
       "canvas:새 캔버스 만들기": false
     }
   },
-  "active": "c4d92e5014ab4090",
+  "floating": {
+    "id": "149070ea733a9cb6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d872713ecf3d0e7b",
+        "type": "window",
+        "children": [
+          {
+            "id": "cac2c37f647551ac",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6285894738179a64",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "We are linked.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 390,
+        "y": 525,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6285894738179a64",
   "lastOpenFiles": [
-    "docs/we-are-linked.html",
-    "docs/untitled-folder_portrait.html",
-    "docs/to-go-or-not-to-go;-that-is-the-question.html",
-    "docs/subjectivity.html",
-    "docs/materials.html",
-    "docs/cursor.html",
-    "docs/docs/references.html",
-    "docs/docs/index.html",
-    "docs/docs/archive.html",
-    "docs/docs/lib/search-index.json",
-    "docs/docs/lib/rss.xml",
-    "We are linked.md",
-    "docs/docs/lib/media/874d8b8e340f75575caa.svg",
-    "docs/docs/lib/media/3d6c1bdc4d87cde4de67.svg",
+    "docs/docs/subjectivity.html",
+    "docs/docs/materials.html",
+    "docs/docs/cursor.html",
+    "docs/docs/lib/styles/obsidian.css",
+    "docs/docs/lib/media/favicon.png",
+    "docs/docs/docs/references.html",
+    "docs/docs/docs/index.html",
+    "docs/docs/docs/archive.html",
+    "docs/docs/docs/docs/lib/html/file-tree.html",
+    "docs/docs/docs/docs/lib/html",
+    "docs/docs/docs/docs/readme.html",
+    "docs/docs/docs/docs/lib",
     "untitled folder_portrait.md",
     "To go or not to go; that is the question.md",
-    "Subjectivity.md",
-    "Materials.md",
+    "Next.md",
     "index.md",
-    "Archive.md",
-    "References.md",
+    "Data Sovereignty.md",
     "Cursor.md",
-    "README.md"
+    "We are linked.md",
+    "Archive.md",
+    "Subjectivity.md",
+    "README.md",
+    "Actor.md",
+    "Hearing but never understanding; Seeing but never perceiving.md",
+    "Digital Image.md",
+    "Materials.md",
+    "References.md",
+    "Virtual.md",
+    "docs/docs/lib/media/874d8b8e340f75575caa.svg",
+    "docs/docs/lib/media/3d6c1bdc4d87cde4de67.svg"
   ]
 }

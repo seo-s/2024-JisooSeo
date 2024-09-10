@@ -1,7 +1,4 @@
-# 2024-JisooSeo
+# JisooSeo
 
 ## [[Archive]]
-
-## [[References]]
-
-## [[Materials]]
+## [[Next]]
