@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "753c492a21eaddfe",
+        "id": "792d50bdd2497ccd",
         "type": "tabs",
         "children": [
           {
-            "id": "302d953783725bbd",
+            "id": "c4d92e5014ab4090",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive.md",
+                "file": "To go or not to go; that is the question.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,6 +66,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "aae9ccd450ed3f62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "302d953783725bbd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,14 +99,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive.md",
+                "file": "To go or not to go; that is the question.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive.md",
+                "file": "To go or not to go; that is the question.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive.md"
+                "file": "To go or not to go; that is the question.md"
               }
             }
           }
@@ -133,29 +147,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false
     }
   },
-  "active": "302d953783725bbd",
+  "active": "c4d92e5014ab4090",
   "lastOpenFiles": [
-    "To go or not to go; that is the question.md",
     "untitled folder_portrait.md",
-    "We are linked.md",
+    "To go or not to go; that is the question.md",
+    "Subjectivity.md",
     "References.md",
-    "index.md",
+    "Cursor.md",
+    "Materials.md",
     "README.md",
+    "index.md",
     "Archive.md",
+    "We are linked.md",
     "docs",
     "untitled folder"
   ]
