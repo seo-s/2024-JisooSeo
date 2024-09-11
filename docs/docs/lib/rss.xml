@@ -1,12 +1,63 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[2024-JisooSeo]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>2024-JisooSeo</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 10 Sep 2024 02:04:32 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 10 Sep 2024 02:04:30 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Archive]]></title><description><![CDATA[ 
- <br><br><br>]]></description><link>archive.html</link><guid isPermaLink="false">Archive.md</guid><pubDate>Mon, 09 Sep 2024 12:17:14 GMT</pubDate></item><item><title><![CDATA[Cursor]]></title><description><![CDATA[ 
- ]]></description><link>cursor.html</link><guid isPermaLink="false">Cursor.md</guid><pubDate>Tue, 10 Sep 2024 01:22:51 GMT</pubDate></item><item><title><![CDATA[2024-JisooSeo]]></title><description><![CDATA[ 
- <br><br><br><br>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Tue, 10 Sep 2024 01:21:33 GMT</pubDate></item><item><title><![CDATA[Materials]]></title><description><![CDATA[ 
- <br><br>]]></description><link>materials.html</link><guid isPermaLink="false">Materials.md</guid><pubDate>Tue, 10 Sep 2024 01:28:48 GMT</pubDate></item><item><title><![CDATA[Subjectivity]]></title><description><![CDATA[ 
- ]]></description><link>subjectivity.html</link><guid isPermaLink="false">Subjectivity.md</guid><pubDate>Tue, 10 Sep 2024 01:28:43 GMT</pubDate></item><item><title><![CDATA[To go or not to go; that is the question]]></title><description><![CDATA[ 
- <br><br>이미지링크 <br>Single-channel video, HD, color, sound, 5’22’’, 2023<br>
-Screenplay, digital print on canvas sheet, 148x210mm, 3000x1500mm, 2023<br>This project talks about the importance of subjectivity and discernment rather than being blindly led by developing technology, and consists of scenarios, videos, and wall image works. It is an epic work that ironically expresses that we should have <a data-href="Subjectivity" href="subjectivity.html" class="internal-link" target="_self" rel="noopener">Subjectivity</a> in virtual space in a flood of information, bringing ‘<a data-href="Cursor" href="cursor.html" class="internal-link" target="_self" rel="noopener">Cursor</a>’, who performs our work instead of humans, as the main character. As a virtual subject that directly performs human needs in a virtual space, the cursor has the property of an avatar and is a substance that approaches the latest technology in virtual reality with concerns and expectations. On a sunny day, the cursor in the scenario becomes conscious in Jisoo’s laptop and starts with an ontological question. It is a story that follows that a cursor dreaming of the finiteness of death in an infinite virtual world struggles to cross into the physical world, but contrary to his thoughts, he finds himself printed inanimate objects through a 3D printer. The video shows the opening part from the traditional interview method to the AI program in a fake documentary as if it were a collage.]]></description><link>to-go-or-not-to-go;-that-is-the-question.html</link><guid isPermaLink="false">To go or not to go; that is the question.md</guid><pubDate>Tue, 10 Sep 2024 01:57:58 GMT</pubDate></item><item><title><![CDATA[untitled folder_portrait]]></title><description><![CDATA[ 
- ]]></description><link>untitled-folder_portrait.html</link><guid isPermaLink="false">untitled folder_portrait.md</guid><pubDate>Mon, 09 Sep 2024 12:18:07 GMT</pubDate></item><item><title><![CDATA[We are linked]]></title><description><![CDATA[ 
- ]]></description><link>we-are-linked.html</link><guid isPermaLink="false">We are linked.md</guid><pubDate>Mon, 09 Sep 2024 12:18:14 GMT</pubDate></item><item><title><![CDATA[References]]></title><description><![CDATA[ 
- ]]></description><link>references.html</link><guid isPermaLink="false">References.md</guid><pubDate>Mon, 09 Sep 2024 11:53:13 GMT</pubDate></item><item><title><![CDATA[README]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[2024-JisooSeo]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>2024-JisooSeo</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 10 Sep 2024 12:41:16 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 10 Sep 2024 12:41:15 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Archive]]></title><description><![CDATA[ 
+ <br><br><br><br>]]></description><link>archive.html</link><guid isPermaLink="false">Archive.md</guid><pubDate>Tue, 10 Sep 2024 11:26:43 GMT</pubDate></item><item><title><![CDATA[Cursor]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>cursor.html</link><guid isPermaLink="false">Cursor.md</guid><pubDate>Tue, 10 Sep 2024 11:26:26 GMT</pubDate></item><item><title><![CDATA[Data Sovereignty]]></title><description><![CDATA[ 
+ ]]></description><link>data-sovereignty.html</link><guid isPermaLink="false">Data Sovereignty.md</guid><pubDate>Tue, 10 Sep 2024 10:08:21 GMT</pubDate></item><item><title><![CDATA[JisooSeo]]></title><description><![CDATA[ 
+ <br><br><br>]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Tue, 10 Sep 2024 11:16:28 GMT</pubDate></item><item><title><![CDATA[Hearing but never understanding; Seeing but never perceiving]]></title><description><![CDATA[ 
+ <br><br><br>
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br><br>
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+<br>
+
+
+]]></description><link>next.html</link><guid isPermaLink="false">Next.md</guid><pubDate>Tue, 10 Sep 2024 12:17:01 GMT</pubDate></item><item><title><![CDATA[To go or not to go; that is the question]]></title><description><![CDATA[ 
+ <br>Single-channel video, HD, color, sound, 5’22’’, 2023<br>
+Screenplay, digital print on canvas sheet, 148x210mm, 3000x1500mm, 2023<br>This project talks about the importance of subjectivity and discernment rather than being blindly led by developing technology, and consists of scenarios, videos, and wall image works. It is an epic work that ironically expresses that we should have <a data-href="Subjectivity" href="subjectivity.html" class="internal-link" target="_self" rel="noopener">Subjectivity</a> in virtual space in a flood of information, bringing ‘<a data-href="Cursor" href="cursor.html" class="internal-link" target="_self" rel="noopener">Cursor</a>’, who performs our work instead of humans, as the main character. As a virtual subject that directly performs human needs in a virtual space, the cursor has the property of an avatar and is a substance that approaches the latest technology in virtual reality with concerns and expectations. On a sunny day, the cursor in the scenario becomes conscious in Jisoo’s laptop and starts with an ontological question. It is a story that follows that a cursor dreaming of the finiteness of death in an infinite virtual world struggles to cross into the physical world, but contrary to his thoughts, he finds himself printed inanimate objects through a 3D printer. The video shows the opening part from the traditional interview method to the AI program in a fake documentary as if it were a collage.<br>References<br>
+Hamlet, William Shakespeare<br>
+Flatland, Edwin Abbott Abbott]]></description><link>to-go-or-not-to-go;-that-is-the-question.html</link><guid isPermaLink="false">To go or not to go; that is the question.md</guid><pubDate>Tue, 10 Sep 2024 11:24:34 GMT</pubDate></item><item><title><![CDATA[untitled folder_portrait]]></title><description><![CDATA[ 
+ <br>Single-channel video, 4D, color, sound, 13’30’’, 2024<br>Jisoo Seo delves into the questions found between reality and virtuality, intertwining them with narratives of death, apocalypse, and conflicts of identity. untitled folder_portrait (2024) begins by granting self-awareness to a digital image '<a data-href="cursor" href="cursor.html" class="internal-link" target="_self" rel="noopener">cursor</a>' and entrusting it with the narrative of an individual based on specific experiences, revealing traces of photo data on the digital screen. However, the specific individuals focused on by the speaker are obscured in the photo data by unidentifiable blurring, relying only on a few guiding pieces of data information and narrative stories to draw a nonlinear narrative. The audience, digging through memories and data archives, seeks private interaction, empathy, and understanding of others, placing them within their own continuity and identity, but the cursor's dry movements instead enhance the sense of an abyssal distance from others. The artwork moves beyond the truths, realities, and fictions of personal history to focus solely on the cursor's movements, arrangement order, and given information, providing and simultaneously denying the possibility of a proxy or other being fully existent. The cursor raises questions about its role as an active agent, and the final scene revealing the cursor's portrait challenges the potential for restoring <a data-href="data sovereignty" href="data-sovereignty.html" class="internal-link" target="_self" rel="noopener">data sovereignty</a>.<br>References<br>
+Untitled(Portrait) series, Felix Gonzalez-Torres<br>
+The Mocking of Christ, Fra Angelico]]></description><link>untitled-folder_portrait.html</link><guid isPermaLink="false">untitled folder_portrait.md</guid><pubDate>Tue, 10 Sep 2024 11:52:30 GMT</pubDate></item><item><title><![CDATA[We are linked]]></title><description><![CDATA[ 
+ <br>Single-channel video, HD, color, sound, 5’25’’, print on paper, dimensions variable, 2022<br>A performance by a Filipino artist was delivered as part of an online collaboration, and it was rendered as digital pictures that moved like a person but lost the body’s unique texture. On the other hand, “We are linked” begins with the ludicrous question, “Can digital images wear textures and enter the real world?” while looking at digital photos, that is, bodily images translated into data. The primary character of the video is a mouse <a data-href="cursor" href="cursor.html" class="internal-link" target="_self" rel="noopener">cursor</a>, a digital emblem, who wishes he could transform into a hand in the real world. Cursors serve the same function as hands in virtual space as they do in the real world, which includes the ability to choose and make decisions. The hand and cursor appear to be entirely linked at the beginning of the film; however, as we all know, the cursor is not a hand and can never be the hand itself. The plot concludes with an event that was entirely caused by the cursor’s delusion.]]></description><link>we-are-linked.html</link><guid isPermaLink="false">We are linked.md</guid><pubDate>Tue, 10 Sep 2024 11:26:11 GMT</pubDate></item><item><title><![CDATA[Subjectivity]]></title><description><![CDATA[ 
+ ]]></description><link>subjectivity.html</link><guid isPermaLink="false">Subjectivity.md</guid><pubDate>Tue, 10 Sep 2024 01:28:43 GMT</pubDate></item><item><title><![CDATA[README]]></title><description><![CDATA[ 
  ]]></description><link>readme.html</link><guid isPermaLink="false">README.md</guid><pubDate>Mon, 09 Sep 2024 12:06:45 GMT</pubDate></item></channel></rss>
