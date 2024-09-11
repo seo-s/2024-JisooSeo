@@ -12,11 +12,11 @@
 - #### Taylor's friend
 - #### Romance Scam
 - #### Google Map
-- #### Amaranth
-- 
+- #### [[Amaranth]]
 - #### [[Cursor]]
+
 - #### [[Data sovereignty]] / Agency
-- #### Restoring / Reclaiming
+- #### [[Restoring]] / Reclaiming
 - #### [[Subjectivity]]
 
 - #### Video
